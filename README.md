@@ -1,6 +1,6 @@
 # News to emoji
 
-This project demonstrates how to fine-tune OpenAI GPT models for news classification tasks. It also includes the source code for the [Streamlit](https://streamlit.io) application, available online at [news2emoji](news2emoji.strealit.com).
+This project demonstrates how to fine-tune OpenAI GPT models for news classification tasks. It also includes the source code for the [Streamlit](https://streamlit.io) application, available online at [news2emoji](https://news2emoji.streamlit.app).
 
 ## Scripts
 
